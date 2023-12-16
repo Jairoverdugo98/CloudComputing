@@ -8,9 +8,9 @@ Este modelo se apoya en infrastructura tecnológica dinámicas, caracterizadas p
 
 ## Indice
 
-1.-Definición de Cloud Computing (nube)
+[1.-Definición de Cloud Computing (nube)](definicion.md)
 
-2.-Características de Cloud Computing
+[2.-Características de Cloud Computing](caracteristicas.md)
 
 3.-Tipos de nubes
 
@@ -20,6 +20,10 @@ Este modelo se apoya en infrastructura tecnológica dinámicas, caracterizadas p
 
 ## Referencias
 [Wikipedia](https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube)
+
+[Google Cloud](https://cloud.google.com/learn/what-is-cloud-computing?hl=es)
+
+[OpenWebinar](https://openwebinars.net/blog/cloud-computing-que-es-caracteristicas-y-ventajas/)
 
 ## Autores
 
