@@ -30,3 +30,6 @@ Este modelo se apoya en infrastructura tecnológica dinámicas, caracterizadas p
 [Larry Reynoso Garcia](https://github.com/LarryWestbrook)
 
 [Jairo Verdugo Mesa](https://github.com/Jairoverdugo98)
+
+## Licencias
+![image](/img/licencia.png)
