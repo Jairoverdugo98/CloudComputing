@@ -32,4 +32,4 @@ Este modelo se apoya en infrastructura tecnológica dinámicas, caracterizadas p
 [Jairo Verdugo Mesa](https://github.com/Jairoverdugo98)
 
 ## Licencias
-![image]()
+![image](/img/licencia.png)
