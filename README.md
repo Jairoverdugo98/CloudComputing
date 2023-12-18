@@ -8,15 +8,15 @@ Este modelo se apoya en infrastructura tecnológica dinámicas, caracterizadas p
 
 ## Indice
 
-[1.-Definición de Cloud Computing (nube)](definicion.md)
+[1.-Definición de Cloud Computing (nube)](/Contenidos/definicion.md)
 
-[2.-Características de Cloud Computing](caracteristicas.md)
+[2.-Características de Cloud Computing](/Contenidos/caracteristicas.md)
 
-3.-Tipos de nubes
+[3.-Tipos de nubes](/Contenidos/tipos.md)
 
-4.-Modos de servicios en la nube
+[4.-Modos de servicios en la nube](/Contenidos/modos.md)
 
-5.-Ventajas e inconvenientes de Cloud Computing
+[5.-Ventajas e inconvenientes de Cloud Computing](/Contenidos/ventajas.md)
 
 ## Referencias
 [Wikipedia](https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube)
