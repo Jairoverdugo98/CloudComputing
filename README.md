@@ -1,4 +1,4 @@
-# CloudComputing
+# Cloud Computing
 ![image](/img/cloud.jpg)
 
 
